@@ -12,12 +12,12 @@ Install both and try to start Android Studio, if it doesn't open you will need t
 If you have to add the JDK to your path navigate to your system window and select Advanced System Settings on the left. In the popup select Environment
 Variables... at the bottom:
 
-![environment button](Images\2014-10-16_21-28-52.png)
+![environment button](Images/2014-10-16_21-28-52.png)
 
 Inside of here you need to click new at the bottom of the system variables section.
 Add a new key called JAVA_HOME and set the value to the location of the jdk like so:
 
-![jdk path](Images\2014-10-16_21-31-21.png)
+![jdk path](Images/2014-10-16_21-31-21.png)
 
 Once you have the path set up you can now start Android Studio. Before we can do anything,
 we need to set up the Android SDK. You can open the sdk manager a couple different ways. You can click the android
